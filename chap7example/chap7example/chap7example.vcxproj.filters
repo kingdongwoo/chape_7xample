@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\c++chap7\chap7example\7-1.INHERITANCE_METHOD.cpp">
+    <ClCompile Include="7-1.INHERITANCE_METHOD.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\c++chap7\chap7example\7-2.INITIAL.cpp">
+    <ClCompile Include="7-2.INITIAL.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\c++chap7\chap7example\7-3.INITIAL2.cpp">
+    <ClCompile Include="7-3.INITIAL2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\c++chap7\chap7example\7장-15.MAINCC.cpp">
+    <ClCompile Include="7장-15.MAINCC.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
