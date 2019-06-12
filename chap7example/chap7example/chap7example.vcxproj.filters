@@ -27,5 +27,8 @@
     <ClCompile Include="7장-15.MAINCC.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Colorect.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
